@@ -1,3 +1,4 @@
+## root method 
 # Termux Superuser
 
 Runs Android `su` with all **Termux binaries** included in **superuser mode** — which means you can run commands like `nano`, directly as system root.
